@@ -3,7 +3,7 @@ This repository contains my research paper on Version Control with Git. The pape
 
 Key Highlights
 
-♨️Introduction to Git, it's history and its distributed architecture.
+♨️Introduction to Git, its history and its distributed architecture.
 
 ♨️Core concepts: commits, branches, merges, and tags.
 
